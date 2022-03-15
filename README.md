@@ -23,6 +23,6 @@ Lastly, at the end of training, you will need to be in the `Desktop` view to see
 
 You can leverage `tf.keras.Sequential` to stack layers in your network and `tf.keras.layers` to create the different layers.
 
-
+# Result 
 ![loss_acc](https://user-images.githubusercontent.com/94951202/158313282-7f25d265-6d1c-49a0-855d-5f6b61c2143c.png)
 
